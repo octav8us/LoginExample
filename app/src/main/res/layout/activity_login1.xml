@@ -36,9 +36,10 @@
 
     <TextView
         android:id="@+id/loginSubtitle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="277dp"
+        android:layout_height="35dp"
         android:layout_marginTop="12dp"
+        android:layout_marginEnd="16dp"
         android:text="Enter to your personal profile.com and follow."
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -50,8 +51,10 @@
         android:id="@+id/editTextPhone"
         android:layout_width="343dp"
         android:layout_height="wrap_content"
+        android:layout_marginEnd="19dp"
         android:ems="10"
         android:inputType="phone"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@+id/phone_label"
         app:layout_constraintTop_toBottomOf="@+id/phone_label" />
 
@@ -76,9 +79,11 @@
         android:id="@+id/editTextTextPassword"
         android:layout_width="343dp"
         android:layout_height="wrap_content"
+        android:layout_marginEnd="19dp"
         android:ems="10"
         android:inputType="textPassword"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@+id/password_label"
         app:layout_constraintTop_toBottomOf="@+id/password_label"
         app:layout_constraintVertical_bias="0.052" />
@@ -88,7 +93,9 @@
         android:layout_width="343dp"
         android:layout_height="56dp"
         android:layout_marginTop="44dp"
+        android:layout_marginEnd="19dp"
         android:text="Login"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@+id/editTextTextPassword"
         app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword" />
 
