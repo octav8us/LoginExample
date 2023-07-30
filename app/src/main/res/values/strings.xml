@@ -2,4 +2,12 @@
     <string name="app_name">LoginExample</string>
     <string name="sign_up"><u>Sign Up</u> </string>
     <string name="login"><u>Login</u> </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="city_image">city image</string>
+    <string name="long_place_holder">Aspen is as close as one can get to a storybook alpine town in America. The choose-your-own-adventure possibilities—skiing, hiking, dining shopping and Aspen is as close as one can get to a storybook alpine town in America. The choose-your-own-adventure possibilities—skiing, hiking, dining shopping and Aspen is as close as one can get to a storybook alpine town in America. The choose-your-own-adventure possibilities—skiing, hiking, dining shopping and Aspen is as close as one can get to a storybook alpine town in America. The choose-your-own-adventure possibilities—skiing, hiking, dining shopping and ........</string>
+    <string name="reviews_place_holder">255 Reviews</string>
+    <string name="city_name_placeholder">Coeurdes Alpes</string>
+    <string name="reviews">Reviews %1$d</string>
+    <string name="todo">TODO</string>
 </resources>
